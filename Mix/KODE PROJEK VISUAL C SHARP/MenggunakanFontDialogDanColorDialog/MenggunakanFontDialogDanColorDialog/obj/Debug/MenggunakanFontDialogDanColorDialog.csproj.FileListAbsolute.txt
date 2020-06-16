@@ -1,0 +1,8 @@
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\bin\Debug\MenggunakanFontDialogDanColorDialog.exe.config
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\obj\Debug\MenggunakanFontDialogDanColorDialog.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\obj\Debug\MenggunakanFontDialogDanColorDialog.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\bin\Debug\MenggunakanFontDialogDanColorDialog.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\bin\Debug\MenggunakanFontDialogDanColorDialog.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\obj\Debug\MenggunakanFontDialogDanColorDialog.Form1.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\obj\Debug\MenggunakanFontDialogDanColorDialog.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenggunakanFontDialogDanColorDialog\MenggunakanFontDialogDanColorDialog\obj\Debug\MenggunakanFontDialogDanColorDialog.csproj.GenerateResource.Cache

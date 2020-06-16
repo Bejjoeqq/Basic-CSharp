@@ -1,0 +1,9 @@
+D:\Bejjo\Tugas\Project\inputt\inputt\bin\Debug\inputt.exe
+D:\Bejjo\Tugas\Project\inputt\inputt\bin\Debug\inputt.pdb
+D:\Bejjo\Tugas\Project\inputt\inputt\obj\x86\Debug\inputt.Form1.resources
+D:\Bejjo\Tugas\Project\inputt\inputt\obj\x86\Debug\inputt.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\inputt\inputt\obj\x86\Debug\inputt.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\inputt\inputt\obj\x86\Debug\inputt.exe
+D:\Bejjo\Tugas\Project\inputt\inputt\obj\x86\Debug\inputt.pdb
+D:\Bejjo\Tugas\Project\inputt\inputt\obj\x86\Debug\inputt.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\C#\Basic\inputt\inputt\obj\x86\Debug\inputt.pdb

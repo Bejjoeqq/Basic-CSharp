@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\bin\Debug\DaftarTemanDariMasukanPengguna.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\bin\Debug\DaftarTemanDariMasukanPengguna.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\bin\Debug\DaftarTemanDariMasukanPengguna.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DaftarTemanDariMasukanPengguna\DaftarTemanDariMasukanPengguna\bin\Debug\DaftarTemanDariMasukanPengguna.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DaftarTemanDariMasukanPengguna\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DaftarTemanDariMasukanPengguna\DaftarTemanDariMasukanPengguna\obj\Debug\DaftarTemanDariMasukanPengguna.pdb

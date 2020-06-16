@@ -1,0 +1,16 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\bin\Debug\RerataLoopWhile.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\bin\Debug\RerataLoopWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\bin\Debug\RerataLoopWhile.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\obj\Debug\RerataLoopWhile.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\obj\Debug\RerataLoopWhile.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\obj\Debug\RerataLoopWhile.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\obj\Debug\RerataLoopWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataLoopWhile\obj\Debug\RerataLoopWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\bin\Debug\RerataLoopWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\obj\Debug\RerataLoopWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\obj\Debug\RerataLoopWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\bin\Debug\RerataLoopWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\bin\Debug\RerataLoopWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\obj\Debug\RerataLoopWhile.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\obj\Debug\RerataLoopWhile.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataLoopWhile\RerataLoopWhile\obj\Debug\RerataLoopWhile.csproj.GenerateResource.Cache

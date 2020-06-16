@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\bin\Debug\MemilihTanggal.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\bin\Debug\MemilihTanggal.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\bin\Debug\MemilihTanggal.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\obj\Debug\MemilihTanggal.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\obj\Debug\MemilihTanggal.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\obj\Debug\MemilihTanggal.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\obj\Debug\MemilihTanggal.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MemilihTanggal\obj\Debug\MemilihTanggal.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MemilihTanggal\MemilihTanggal\bin\Debug\MemilihTanggal.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MemilihTanggal\MemilihTanggal\obj\Debug\MemilihTanggal.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MemilihTanggal\MemilihTanggal\obj\Debug\MemilihTanggal.pdb

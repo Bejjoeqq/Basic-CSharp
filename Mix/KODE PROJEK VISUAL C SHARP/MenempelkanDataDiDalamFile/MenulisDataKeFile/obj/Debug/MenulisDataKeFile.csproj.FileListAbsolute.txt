@@ -1,0 +1,21 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenulisDataKeFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.pdb

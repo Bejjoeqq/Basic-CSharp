@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\bin\Debug\DemoArrayParalel.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\bin\Debug\DemoArrayParalel.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\bin\Debug\DemoArrayParalel.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\obj\Debug\DemoArrayParalel.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\obj\Debug\DemoArrayParalel.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\obj\Debug\DemoArrayParalel.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\obj\Debug\DemoArrayParalel.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArrayParalel\obj\Debug\DemoArrayParalel.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArrayParalel\DemoArrayParalel\bin\Debug\DemoArrayParalel.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArrayParalel\DemoArrayParalel\obj\Debug\DemoArrayParalel.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArrayParalel\DemoArrayParalel\obj\Debug\DemoArrayParalel.pdb

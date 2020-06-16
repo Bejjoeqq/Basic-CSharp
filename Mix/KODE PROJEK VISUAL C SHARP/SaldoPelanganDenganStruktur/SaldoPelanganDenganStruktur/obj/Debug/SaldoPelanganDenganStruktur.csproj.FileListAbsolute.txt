@@ -1,0 +1,14 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\SaldoPelanganDenganStruktur\bin\Debug\SaldoPelanganDenganStruktur.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\bin\Debug\SaldoPelanganDenganStruktur.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\bin\Debug\SaldoPelanganDenganStruktur.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\bin\Debug\SaldoPelanganDenganStruktur.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SaldoPelanganDenganStruktur\SaldoPelanganDenganStruktur\obj\Debug\SaldoPelanganDenganStruktur.pdb

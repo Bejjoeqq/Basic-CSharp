@@ -1,0 +1,15 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\bin\Debug\BatuGuntingKertas.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\bin\Debug\BatuGuntingKertas.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\bin\Debug\BatuGuntingKertas.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\BatuGuntingKertas\BatuGuntingKertas\bin\Debug\BatuGuntingKertas.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\BatuGuntingKertas\BatuGuntingKertas\bin\Debug\BatuGuntingKertas.exe.config
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.pdb

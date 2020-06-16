@@ -1,0 +1,16 @@
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\AldhiyaSMS.exe
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\AldhiyaSMS.pdb
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\obj\x86\Debug\AldhiyaSMS.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\obj\x86\Debug\AldhiyaSMS.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\obj\x86\Debug\AldhiyaSMS.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\obj\x86\Debug\AldhiyaSMS.exe
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\obj\x86\Debug\AldhiyaSMS.pdb
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\GSMCommServer.dll
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\GSMCommShared.dll
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\GSMCommunication.dll
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\PDUConverter.dll
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\GSMCommServer.xml
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\GSMCommShared.xml
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\GSMCommunication.xml
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\bin\Debug\PDUConverter.xml
+D:\Bejjo\Tugas\Project\AldhiyaSMS\AldhiyaSMS\obj\x86\Debug\AldhiyaSMS.csprojResolveAssemblyReference.cache

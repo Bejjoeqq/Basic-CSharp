@@ -1,0 +1,8 @@
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\bin\Debug\AlhdiyaDB2.exe
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\bin\Debug\AlhdiyaDB2.pdb
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\obj\x86\Debug\AlhdiyaDB2.Form1.resources
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\obj\x86\Debug\AlhdiyaDB2.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\obj\x86\Debug\AlhdiyaDB2.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\obj\x86\Debug\AlhdiyaDB2.exe
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\obj\x86\Debug\AlhdiyaDB2.pdb
+D:\Bejjo\Tugas\Project\AlhdiyaDB2\AlhdiyaDB2\obj\x86\Debug\AlhdiyaDB2.csprojResolveAssemblyReference.cache

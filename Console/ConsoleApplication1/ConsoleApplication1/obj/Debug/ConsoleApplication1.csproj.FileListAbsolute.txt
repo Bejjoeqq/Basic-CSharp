@@ -1,0 +1,6 @@
+D:\Bejjo\Tugas\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Bejjo\Tugas\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Bejjo\Tugas\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Bejjo\Tugas\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Bejjo\Tugas\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

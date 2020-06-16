@@ -1,0 +1,11 @@
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\bin\Debug\AldhiyaUTSDS.exe
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\bin\Debug\AldhiyaUTSDS.pdb
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.exe
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.pdb
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.Dbuku.resources
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.Dpengunjung.resources
+D:\Bejjo\Tugas\Project\AldhiyaUTSDS\AldhiyaUTSDS\obj\x86\Debug\AldhiyaUTSDS.Dpetugas.resources

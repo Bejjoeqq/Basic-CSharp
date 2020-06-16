@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\bin\Debug\DemoAwan.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\bin\Debug\DemoAwan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\bin\Debug\DemoAwan.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\obj\Debug\DemoAwan.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\obj\Debug\DemoAwan.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\obj\Debug\DemoAwan.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\obj\Debug\DemoAwan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAwan\obj\Debug\DemoAwan.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoAwan\DemoAwan\bin\Debug\DemoAwan.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoAwan\DemoAwan\obj\Debug\DemoAwan.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoAwan\DemoAwan\obj\Debug\DemoAwan.pdb

@@ -1,0 +1,8 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\bin\Debug\DemoTawaran.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\bin\Debug\DemoTawaran.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\bin\Debug\DemoTawaran.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\obj\Debug\DemoTawaran.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\obj\Debug\DemoTawaran.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\obj\Debug\DemoTawaran2.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\obj\Debug\DemoTawaran.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\obj\Debug\DemoTawaran.pdb

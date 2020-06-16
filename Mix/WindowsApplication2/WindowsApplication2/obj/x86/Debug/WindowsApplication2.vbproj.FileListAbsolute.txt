@@ -1,0 +1,14 @@
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form2.resources
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form3.resources
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form4.resources
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form5.resources
+D:\Bejjo\Tugas\Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources

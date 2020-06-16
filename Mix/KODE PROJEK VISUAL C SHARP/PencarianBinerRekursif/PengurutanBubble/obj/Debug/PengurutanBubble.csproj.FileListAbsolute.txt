@@ -1,0 +1,20 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\bin\Debug\PengurutanBubble.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\bin\Debug\PengurutanBubble.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\bin\Debug\PengurutanBubble.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\obj\Debug\PengurutanBubble.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\obj\Debug\PengurutanBubble.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\obj\Debug\PengurutanBubble.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\obj\Debug\PengurutanBubble.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\obj\Debug\PengurutanBubble.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PengurutanBubble\obj\Debug\PengurutanBubble.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\bin\Debug\PengurutanBubble.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\bin\Debug\PengurutanBubble.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\bin\Debug\PengurutanBubble.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\obj\Debug\PengurutanBubble.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\obj\Debug\PengurutanBubble.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\obj\Debug\PengurutanBubble.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\obj\Debug\PengurutanBubble.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanBubble\PengurutanBubble\obj\Debug\PengurutanBubble.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanSeleksi\PengurutanBubble\bin\Debug\PengurutanBubble.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanSeleksi\PengurutanBubble\obj\Debug\PengurutanBubble.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PengurutanSeleksi\PengurutanBubble\obj\Debug\PengurutanBubble.pdb

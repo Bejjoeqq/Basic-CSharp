@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\bin\Debug\DemoPajak.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\bin\Debug\DemoPajak.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\bin\Debug\DemoPajak.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\obj\Debug\DemoPajak.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\obj\Debug\DemoPajak.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\obj\Debug\DemoPajak.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\obj\Debug\DemoPajak.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoPajak\obj\Debug\DemoPajak.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoPajak\DemoPajak\bin\Debug\DemoPajak.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoPajak\DemoPajak\obj\Debug\DemoPajak.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoPajak\DemoPajak\obj\Debug\DemoPajak.pdb

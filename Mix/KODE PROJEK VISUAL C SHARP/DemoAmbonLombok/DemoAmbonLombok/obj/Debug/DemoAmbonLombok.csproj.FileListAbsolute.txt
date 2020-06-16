@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\bin\Debug\DemoAmbonLombok.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\bin\Debug\DemoAmbonLombok.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\bin\Debug\DemoAmbonLombok.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\obj\Debug\DemoAmbonLombok.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\obj\Debug\DemoAmbonLombok.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\obj\Debug\DemoAmbonLombok.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\obj\Debug\DemoAmbonLombok.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoAmbonLombok\obj\Debug\DemoAmbonLombok.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoAmbonLombok\DemoAmbonLombok\bin\Debug\DemoAmbonLombok.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoAmbonLombok\DemoAmbonLombok\obj\Debug\DemoAmbonLombok.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoAmbonLombok\DemoAmbonLombok\obj\Debug\DemoAmbonLombok.pdb

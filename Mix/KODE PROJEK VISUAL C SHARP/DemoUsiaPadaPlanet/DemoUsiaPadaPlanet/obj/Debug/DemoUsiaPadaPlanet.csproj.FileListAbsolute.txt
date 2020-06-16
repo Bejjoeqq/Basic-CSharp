@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\bin\Debug\DemoUsiaPadaPlanet.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\bin\Debug\DemoUsiaPadaPlanet.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\bin\Debug\DemoUsiaPadaPlanet.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoUsiaPadaPlanet\DemoUsiaPadaPlanet\bin\Debug\DemoUsiaPadaPlanet.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoUsiaPadaPlanet\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoUsiaPadaPlanet\DemoUsiaPadaPlanet\obj\Debug\DemoUsiaPadaPlanet.pdb

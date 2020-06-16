@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\bin\Debug\PermainanTebakan.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\bin\Debug\PermainanTebakan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\bin\Debug\PermainanTebakan.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\obj\Debug\PermainanTebakan.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\obj\Debug\PermainanTebakan.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\obj\Debug\PermainanTebakan.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\obj\Debug\PermainanTebakan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PermainanTebakan\obj\Debug\PermainanTebakan.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PermainanTebakan\PermainanTebakan\bin\Debug\PermainanTebakan.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PermainanTebakan\PermainanTebakan\obj\Debug\PermainanTebakan.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PermainanTebakan\PermainanTebakan\obj\Debug\PermainanTebakan.pdb

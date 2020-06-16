@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\bin\Debug\StatemenIfDenganAND.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\bin\Debug\StatemenIfDenganAND.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\bin\Debug\StatemenIfDenganAND.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganAND\StatemenIfDenganAND\bin\Debug\StatemenIfDenganAND.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganAND\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganAND\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.pdb

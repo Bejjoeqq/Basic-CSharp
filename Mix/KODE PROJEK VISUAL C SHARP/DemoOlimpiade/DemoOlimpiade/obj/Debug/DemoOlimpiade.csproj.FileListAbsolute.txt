@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\bin\Debug\DemoOlimpiade.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\bin\Debug\DemoOlimpiade.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\bin\Debug\DemoOlimpiade.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\obj\Debug\DemoOlimpiade.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\obj\Debug\DemoOlimpiade.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\obj\Debug\DemoOlimpiade.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\obj\Debug\DemoOlimpiade.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoOlimpiade\obj\Debug\DemoOlimpiade.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoOlimpiade\DemoOlimpiade\bin\Debug\DemoOlimpiade.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoOlimpiade\DemoOlimpiade\obj\Debug\DemoOlimpiade.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoOlimpiade\DemoOlimpiade\obj\Debug\DemoOlimpiade.pdb

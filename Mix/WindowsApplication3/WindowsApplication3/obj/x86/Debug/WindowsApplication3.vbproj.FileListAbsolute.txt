@@ -1,0 +1,13 @@
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+D:\Bejjo\Tugas\Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources

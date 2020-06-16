@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\bin\Debug\MenuKesehatan.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\bin\Debug\MenuKesehatan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\bin\Debug\MenuKesehatan.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\obj\Debug\MenuKesehatan.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\obj\Debug\MenuKesehatan.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\obj\Debug\MenuKesehatan.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\obj\Debug\MenuKesehatan.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\obj\Debug\MenuKesehatan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenuKesehatan\obj\Debug\MenuKesehatan.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan\MenuKesehatan\bin\Debug\MenuKesehatan.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan\MenuKesehatan\obj\Debug\MenuKesehatan.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan\MenuKesehatan\obj\Debug\MenuKesehatan.pdb

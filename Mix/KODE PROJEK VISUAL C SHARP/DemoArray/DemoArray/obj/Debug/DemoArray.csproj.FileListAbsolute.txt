@@ -1,0 +1,18 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\bin\Debug\DemoArray.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\bin\Debug\DemoArray.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\bin\Debug\DemoArray.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\obj\Debug\DemoArray.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\obj\Debug\DemoArray.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\obj\Debug\DemoArray.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\obj\Debug\DemoArray.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\obj\Debug\DemoArray.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoArray\obj\Debug\DemoArray.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\bin\Debug\DemoArray.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\obj\Debug\DemoArray.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\obj\Debug\DemoArray.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\bin\Debug\DemoArray.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\bin\Debug\DemoArray.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\obj\Debug\DemoArray.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\obj\Debug\DemoArray.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\obj\Debug\DemoArray.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoArray\DemoArray\obj\Debug\DemoArray.csproj.GenerateResource.Cache

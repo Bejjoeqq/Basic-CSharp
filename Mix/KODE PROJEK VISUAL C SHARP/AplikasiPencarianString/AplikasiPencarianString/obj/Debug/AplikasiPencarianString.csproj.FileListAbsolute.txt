@@ -1,0 +1,17 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\bin\Debug\AplikasiPencarianString.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\bin\Debug\AplikasiPencarianString.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\bin\Debug\AplikasiPencarianString.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\bin\Debug\AplikasiPencarianString.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\bin\Debug\AplikasiPencarianString.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\bin\Debug\AplikasiPencarianString.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPencarianString\AplikasiPencarianString\obj\Debug\AplikasiPencarianString.pdb

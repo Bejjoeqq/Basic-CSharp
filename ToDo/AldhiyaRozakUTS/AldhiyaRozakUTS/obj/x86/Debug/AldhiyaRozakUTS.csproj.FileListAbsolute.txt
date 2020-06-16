@@ -1,0 +1,7 @@
+D:\Bejjo\Tugas\Project\AldhiyaRozakUTS\AldhiyaRozakUTS\bin\Debug\AldhiyaRozakUTS.exe
+D:\Bejjo\Tugas\Project\AldhiyaRozakUTS\AldhiyaRozakUTS\bin\Debug\AldhiyaRozakUTS.pdb
+D:\Bejjo\Tugas\Project\AldhiyaRozakUTS\AldhiyaRozakUTS\obj\x86\Debug\AldhiyaRozakUTS.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaRozakUTS\AldhiyaRozakUTS\obj\x86\Debug\AldhiyaRozakUTS.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaRozakUTS\AldhiyaRozakUTS\obj\x86\Debug\AldhiyaRozakUTS.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaRozakUTS\AldhiyaRozakUTS\obj\x86\Debug\AldhiyaRozakUTS.exe
+D:\Bejjo\Tugas\Project\AldhiyaRozakUTS\AldhiyaRozakUTS\obj\x86\Debug\AldhiyaRozakUTS.pdb

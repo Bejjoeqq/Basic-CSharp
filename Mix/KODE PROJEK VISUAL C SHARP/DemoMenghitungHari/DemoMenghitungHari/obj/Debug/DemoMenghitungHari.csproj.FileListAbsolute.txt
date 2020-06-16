@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\bin\Debug\DemoMenghitungHari.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\bin\Debug\DemoMenghitungHari.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\bin\Debug\DemoMenghitungHari.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoMenghitungHari\DemoMenghitungHari\bin\Debug\DemoMenghitungHari.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoMenghitungHari\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoMenghitungHari\DemoMenghitungHari\obj\Debug\DemoMenghitungHari.pdb

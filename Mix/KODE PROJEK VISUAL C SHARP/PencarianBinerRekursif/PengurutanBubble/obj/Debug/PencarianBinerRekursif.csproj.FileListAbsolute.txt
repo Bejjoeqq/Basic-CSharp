@@ -1,0 +1,9 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\obj\Debug\PencarianBinerRekursif.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\obj\Debug\PengurutanBubble.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\obj\Debug\PengurutanBubble.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\obj\Debug\PencarianBinerRekursif.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\obj\Debug\PengurutanBubble.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\bin\Debug\PengurutanBubble.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\bin\Debug\PengurutanBubble.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\bin\Debug\PengurutanBubble.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBinerRekursif\PengurutanBubble\obj\Debug\PengurutanBubble.pdb

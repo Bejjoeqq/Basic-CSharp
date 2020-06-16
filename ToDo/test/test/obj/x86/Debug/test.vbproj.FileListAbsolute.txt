@@ -1,0 +1,10 @@
+D:\Bejjo\Tugas\Project\test\test\obj\x86\Debug\test.Form1.resources
+D:\Bejjo\Tugas\Project\test\test\obj\x86\Debug\test.Resources.resources
+D:\Bejjo\Tugas\Project\test\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\test\test\bin\Debug\test.exe.config
+D:\Bejjo\Tugas\Project\test\test\bin\Debug\test.exe
+D:\Bejjo\Tugas\Project\test\test\bin\Debug\test.pdb
+D:\Bejjo\Tugas\Project\test\test\bin\Debug\test.xml
+D:\Bejjo\Tugas\Project\test\test\obj\x86\Debug\test.exe
+D:\Bejjo\Tugas\Project\test\test\obj\x86\Debug\test.xml
+D:\Bejjo\Tugas\Project\test\test\obj\x86\Debug\test.pdb

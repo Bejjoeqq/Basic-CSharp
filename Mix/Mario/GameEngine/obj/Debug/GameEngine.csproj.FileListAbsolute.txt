@@ -1,0 +1,9 @@
+D:\Bejjo\Tugas\Project\Mario\GameEngine\bin\Debug\GameEngine.dll
+D:\Bejjo\Tugas\Project\Mario\GameEngine\bin\Debug\GameEngine.pdb
+D:\Bejjo\Tugas\Project\Mario\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+D:\Bejjo\Tugas\Project\Mario\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+D:\Bejjo\Tugas\Project\Mario\GameEngine\bin\Debug\sfmlnet-system-2.dll
+D:\Bejjo\Tugas\Project\Mario\GameEngine\bin\Debug\sfmlnet-window-2.dll
+D:\Bejjo\Tugas\Project\Mario\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\Mario\GameEngine\obj\Debug\GameEngine.dll
+D:\Bejjo\Tugas\Project\Mario\GameEngine\obj\Debug\GameEngine.pdb

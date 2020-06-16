@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\bin\Debug\PencarianBiner.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\bin\Debug\PencarianBiner.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\bin\Debug\PencarianBiner.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\obj\Debug\PencarianBiner.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\obj\Debug\PencarianBiner.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\obj\Debug\PencarianBiner.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\obj\Debug\PencarianBiner.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianBiner\obj\Debug\PencarianBiner.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBiner\PencarianBiner\bin\Debug\PencarianBiner.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBiner\PencarianBiner\obj\Debug\PencarianBiner.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianBiner\PencarianBiner\obj\Debug\PencarianBiner.pdb

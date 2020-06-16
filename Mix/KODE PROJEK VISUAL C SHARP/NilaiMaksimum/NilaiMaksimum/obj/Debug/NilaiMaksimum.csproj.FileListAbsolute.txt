@@ -1,0 +1,8 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\bin\Debug\NilaiMaksimum.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\bin\Debug\NilaiMaksimum.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\bin\Debug\NilaiMaksimum.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\obj\Debug\NilaiMaksimum.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\obj\Debug\NilaiMaksimum.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\obj\Debug\NilaiMaksimum.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\obj\Debug\NilaiMaksimum.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksimum\obj\Debug\NilaiMaksimum.pdb

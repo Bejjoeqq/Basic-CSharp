@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calculator">
+</Property><Property Name="Solution File" Value="D:\Bejjo\Tugas\Project\Calc4\Calculator.sln">
+</Property><Property Name="Date" Value="Rabu, 20 September 2017">
+</Property><Property Name="Time" Value="22.10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calculator.sln" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator.sln">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Calculator.csproj" Description="Project file successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Calculator.csproj">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Form1.cs" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Form1.Designer.cs" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Program.cs" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Program.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Properties\Settings.settings" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Form1.resx" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Properties\Resources.resx" Description="File successfully backed up as D:\Bejjo\Tugas\Project\Calc4\Backup\Calculator\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Calculator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Calculator" Source="Calculator\Calculator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calculator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Calculator.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator\Calculator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

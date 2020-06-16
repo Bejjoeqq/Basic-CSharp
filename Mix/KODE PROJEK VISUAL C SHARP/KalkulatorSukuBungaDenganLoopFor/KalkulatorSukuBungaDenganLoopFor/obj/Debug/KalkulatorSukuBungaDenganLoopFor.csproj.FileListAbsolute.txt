@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\bin\Debug\KalkulatorSukuBungaDenganLoopFor.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\bin\Debug\KalkulatorSukuBungaDenganLoopFor.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\bin\Debug\KalkulatorSukuBungaDenganLoopFor.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\obj\Debug\KalkulatorSukuBungaDenganLoopFor.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\obj\Debug\KalkulatorSukuBungaDenganLoopFor.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\obj\Debug\KalkulatorSukuBungaDenganLoopFor.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\obj\Debug\KalkulatorSukuBungaDenganLoopFor.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSukuBungaDenganLoopFor\obj\Debug\KalkulatorSukuBungaDenganLoopFor.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSukuBungaDenganLoopFor\KalkulatorSukuBungaDenganLoopFor\bin\Debug\KalkulatorSukuBungaDenganLoopFor.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSukuBungaDenganLoopFor\KalkulatorSukuBungaDenganLoopFor\obj\Debug\KalkulatorSukuBungaDenganLoopFor.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSukuBungaDenganLoopFor\KalkulatorSukuBungaDenganLoopFor\obj\Debug\KalkulatorSukuBungaDenganLoopFor.pdb

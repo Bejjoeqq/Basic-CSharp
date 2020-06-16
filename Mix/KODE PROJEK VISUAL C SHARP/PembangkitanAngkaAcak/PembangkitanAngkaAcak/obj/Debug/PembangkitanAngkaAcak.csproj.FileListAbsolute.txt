@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\bin\Debug\PembangkitanAngkaAcak.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\bin\Debug\PembangkitanAngkaAcak.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\bin\Debug\PembangkitanAngkaAcak.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PembangkitanAngkaAcak\PembangkitanAngkaAcak\bin\Debug\PembangkitanAngkaAcak.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PembangkitanAngkaAcak\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PembangkitanAngkaAcak\PembangkitanAngkaAcak\obj\Debug\PembangkitanAngkaAcak.pdb

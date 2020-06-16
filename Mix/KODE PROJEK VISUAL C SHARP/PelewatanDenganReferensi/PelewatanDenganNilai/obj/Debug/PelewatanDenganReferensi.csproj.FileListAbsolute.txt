@@ -1,0 +1,8 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\obj\Debug\PelewatanDenganReferensi.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\bin\Debug\PelewatanDenganNilai.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\bin\Debug\PelewatanDenganNilai.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\bin\Debug\PelewatanDenganNilai.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganReferensi\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.pdb

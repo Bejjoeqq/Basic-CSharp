@@ -1,0 +1,8 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\obj\Debug\StatemenIfDenganAND.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\obj\Debug\StatemenIfDenganOR.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\bin\Debug\StatemenIfDenganOR.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\bin\Debug\StatemenIfDenganOR.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\bin\Debug\StatemenIfDenganOR.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\obj\Debug\StatemenIfDenganOR.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\obj\Debug\StatemenIfDenganOR.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOR\StatemenIfDenganAND\obj\Debug\StatemenIfDenganOR.pdb

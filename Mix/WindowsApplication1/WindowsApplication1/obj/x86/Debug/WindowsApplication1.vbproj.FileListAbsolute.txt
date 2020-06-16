@@ -1,0 +1,13 @@
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Bejjo\Tugas\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Bejjo\Tugas\Project\C#\Basic\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Bejjo\Tugas\Project\C#\Basic\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Bejjo\Tugas\Project\C#\Basic\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

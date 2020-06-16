@@ -1,0 +1,9 @@
+D:\Bejjo\Tugas\Project\closeall\bin\Debug\closeall.exe
+D:\Bejjo\Tugas\Project\closeall\bin\Debug\closeall.pdb
+D:\Bejjo\Tugas\Project\closeall\obj\x86\Debug\closeall.Form1.resources
+D:\Bejjo\Tugas\Project\closeall\obj\x86\Debug\closeall.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\closeall\obj\x86\Debug\closeall.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\closeall\obj\x86\Debug\closeall.exe
+D:\Bejjo\Tugas\Project\closeall\obj\x86\Debug\closeall.pdb
+D:\Bejjo\Tugas\Project\C#\Basic\closeall\obj\x86\Debug\closeall.exe
+D:\Bejjo\Tugas\Project\C#\Basic\closeall\obj\x86\Debug\closeall.pdb

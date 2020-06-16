@@ -1,0 +1,15 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.pdb

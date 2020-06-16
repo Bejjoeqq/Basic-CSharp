@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\bin\Debug\PembelianKomputer.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\bin\Debug\PembelianKomputer.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\bin\Debug\PembelianKomputer.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\obj\Debug\PembelianKomputer.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\obj\Debug\PembelianKomputer.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\obj\Debug\PembelianKomputer.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\obj\Debug\PembelianKomputer.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PembelianKomputer\obj\Debug\PembelianKomputer.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PembelianKomputer\PembelianKomputer\bin\Debug\PembelianKomputer.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PembelianKomputer\PembelianKomputer\obj\Debug\PembelianKomputer.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PembelianKomputer\PembelianKomputer\obj\Debug\PembelianKomputer.pdb

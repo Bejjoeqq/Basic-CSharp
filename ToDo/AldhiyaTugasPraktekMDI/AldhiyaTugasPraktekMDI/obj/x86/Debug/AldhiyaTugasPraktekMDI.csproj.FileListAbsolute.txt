@@ -1,0 +1,14 @@
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\bin\Debug\AldhiyaTugasPraktekMDI.exe
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\bin\Debug\AldhiyaTugasPraktekMDI.pdb
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.exe
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.pdb
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.KPersegiPanjang.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.KBujurSangkar.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.KJajaranGenjang.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.KLayang_Layang.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.KLingkaran.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.KSegitiga.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugasPraktekMDI\AldhiyaTugasPraktekMDI\obj\x86\Debug\AldhiyaTugasPraktekMDI.csprojResolveAssemblyReference.cache

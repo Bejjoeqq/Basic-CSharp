@@ -1,0 +1,12 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenempelkanDataDiDalamFile.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenempelkanDataDiDalamFile.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\bin\Debug\MenulisDataKeFile.exe.config
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MenempelkanDataDiDalamFile\MenulisDataKeFile\obj\Debug\MenulisDataKeFile.pdb

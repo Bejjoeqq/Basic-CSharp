@@ -1,0 +1,8 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\bin\Debug\MenuKesehatan.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\bin\Debug\MenuKesehatan.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\bin\Debug\MenuKesehatan.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\obj\Debug\MenuKesehatan.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\obj\Debug\MenuKesehatan.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\obj\Debug\MenuKesehatan2.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\obj\Debug\MenuKesehatan.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenuKesehatan2\MenuKesehatan\obj\Debug\MenuKesehatan.pdb

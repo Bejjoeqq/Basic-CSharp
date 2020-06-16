@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\bin\Debug\KalkulatorComboBox.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\bin\Debug\KalkulatorComboBox.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\bin\Debug\KalkulatorComboBox.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorComboBox\KalkulatorComboBox\bin\Debug\KalkulatorComboBox.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorComboBox\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorComboBox\KalkulatorComboBox\obj\Debug\KalkulatorComboBox.pdb

@@ -1,0 +1,18 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\bin\Debug\AplikasiPenjualanDenganMenu.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\bin\Debug\AplikasiPenjualanDenganMenu.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\bin\Debug\AplikasiPenjualanDenganMenu.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\bin\Debug\AplikasiPenjualanDenganMenu.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\bin\Debug\AplikasiPenjualanDenganMenu.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\bin\Debug\AplikasiPenjualanDenganMenu.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDenganMenu\AplikasiPenjualanDenganMenu\obj\Debug\AplikasiPenjualanDenganMenu.csproj.GenerateResource.Cache

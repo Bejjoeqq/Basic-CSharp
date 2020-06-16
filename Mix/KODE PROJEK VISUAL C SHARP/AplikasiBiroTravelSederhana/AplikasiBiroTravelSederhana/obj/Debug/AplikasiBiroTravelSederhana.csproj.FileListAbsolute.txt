@@ -1,0 +1,13 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiBiroTravelSederhana\bin\Debug\AplikasiBiroTravelSederhana.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\bin\Debug\AplikasiBiroTravelSederhana.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\bin\Debug\AplikasiBiroTravelSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\bin\Debug\AplikasiBiroTravelSederhana.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\bin\Debug\AplikasiBiroTravelSederhana.exe.config
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiBiroTravelSederhana\AplikasiBiroTravelSederhana\obj\Debug\AplikasiBiroTravelSederhana.pdb

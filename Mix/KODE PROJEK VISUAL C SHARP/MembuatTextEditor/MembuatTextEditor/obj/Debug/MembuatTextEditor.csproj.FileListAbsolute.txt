@@ -1,0 +1,10 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MembuatTextEditor\bin\Debug\MembuatTextEditor.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\bin\Debug\MembuatTextEditor.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\obj\Debug\MembuatTextEditor.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\obj\Debug\MembuatTextEditor.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\obj\Debug\MembuatTextEditor.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\obj\Debug\MembuatTextEditor.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\bin\Debug\MembuatTextEditor.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\bin\Debug\MembuatTextEditor.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\obj\Debug\MembuatTextEditor.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembuatTextEditor\MembuatTextEditor\obj\Debug\MembuatTextEditor.pdb

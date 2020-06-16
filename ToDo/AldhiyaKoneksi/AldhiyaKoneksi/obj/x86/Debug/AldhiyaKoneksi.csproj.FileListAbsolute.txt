@@ -1,0 +1,10 @@
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\bin\Debug\AldhiyaKoneksi.exe.config
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\bin\Debug\AldhiyaKoneksi.exe
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\bin\Debug\AldhiyaKoneksi.pdb
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\obj\x86\Debug\AldhiyaKoneksi.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\obj\x86\Debug\AldhiyaKoneksi.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\obj\x86\Debug\AldhiyaKoneksi.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\obj\x86\Debug\AldhiyaKoneksi.exe
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\obj\x86\Debug\AldhiyaKoneksi.pdb
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\obj\x86\Debug\AldhiyaKoneksi.Konek.resources
+D:\Bejjo\Tugas\Project\AldhiyaKoneksi\AldhiyaKoneksi\obj\x86\Debug\AldhiyaKoneksi.csprojResolveAssemblyReference.cache

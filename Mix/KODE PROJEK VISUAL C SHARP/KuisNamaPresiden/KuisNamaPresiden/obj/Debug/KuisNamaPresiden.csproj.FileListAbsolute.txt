@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\bin\Debug\KuisNamaPresiden.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\bin\Debug\KuisNamaPresiden.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\bin\Debug\KuisNamaPresiden.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KuisNamaPresiden\KuisNamaPresiden\bin\Debug\KuisNamaPresiden.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KuisNamaPresiden\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KuisNamaPresiden\KuisNamaPresiden\obj\Debug\KuisNamaPresiden.pdb

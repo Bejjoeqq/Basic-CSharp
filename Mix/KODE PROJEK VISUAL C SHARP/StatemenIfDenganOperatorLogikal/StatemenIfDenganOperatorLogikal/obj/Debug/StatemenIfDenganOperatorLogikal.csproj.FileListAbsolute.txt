@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\bin\Debug\StatemenIfDenganOperatorLogikal.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\bin\Debug\StatemenIfDenganOperatorLogikal.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\bin\Debug\StatemenIfDenganOperatorLogikal.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOperatorLogikal\StatemenIfDenganOperatorLogikal\bin\Debug\StatemenIfDenganOperatorLogikal.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOperatorLogikal\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIfDenganOperatorLogikal\StatemenIfDenganOperatorLogikal\obj\Debug\StatemenIfDenganOperatorLogikal.pdb

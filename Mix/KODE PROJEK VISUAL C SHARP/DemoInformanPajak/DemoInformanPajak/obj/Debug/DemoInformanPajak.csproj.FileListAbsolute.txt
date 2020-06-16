@@ -1,0 +1,21 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\bin\Debug\DemoInformanPajak.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\obj\Debug\DemoInformanPajak.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\obj\Debug\DemoInformanPajak.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\obj\Debug\DemoInformanPajak.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\obj\Debug\DemoInformanPajak.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\bin\Debug\DemoInformanPajak.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\bin\Debug\DemoInformanPajak.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\obj\Debug\DemoInformanPajak.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoInformanPajak\obj\Debug\DemoInformanPajak.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\bin\Debug\DemoInformanPajak.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\bin\Debug\DemoInformanPajak.exe.config
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\bin\Debug\DemoInformanPajak.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\bin\Debug\DemoInformanPajak.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.Form1.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\DemoInformanPajak\DemoInformanPajak\obj\Debug\DemoInformanPajak.csproj.GenerateResource.Cache

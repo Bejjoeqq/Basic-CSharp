@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\bin\Debug\MenghitungFaktorial.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\bin\Debug\MenghitungFaktorial.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\bin\Debug\MenghitungFaktorial.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\obj\Debug\MenghitungFaktorial.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\obj\Debug\MenghitungFaktorial.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\obj\Debug\MenghitungFaktorial.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\obj\Debug\MenghitungFaktorial.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungFaktorial\obj\Debug\MenghitungFaktorial.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungFaktorial\MenghitungFaktorial\bin\Debug\MenghitungFaktorial.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungFaktorial\MenghitungFaktorial\obj\Debug\MenghitungFaktorial.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungFaktorial\MenghitungFaktorial\obj\Debug\MenghitungFaktorial.pdb

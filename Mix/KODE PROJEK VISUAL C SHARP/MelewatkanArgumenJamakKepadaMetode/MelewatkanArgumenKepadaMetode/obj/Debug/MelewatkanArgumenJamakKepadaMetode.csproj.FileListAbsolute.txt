@@ -1,0 +1,8 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenJamakKepadaMetode.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.pdb

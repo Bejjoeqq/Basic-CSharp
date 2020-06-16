@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\bin\Debug\UangPendaftaran.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\bin\Debug\UangPendaftaran.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\bin\Debug\UangPendaftaran.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\obj\Debug\UangPendaftaran.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\obj\Debug\UangPendaftaran.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\obj\Debug\UangPendaftaran.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\obj\Debug\UangPendaftaran.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\UangPendaftaran\obj\Debug\UangPendaftaran.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\UangPendaftaran\UangPendaftaran\bin\Debug\UangPendaftaran.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\UangPendaftaran\UangPendaftaran\obj\Debug\UangPendaftaran.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\UangPendaftaran\UangPendaftaran\obj\Debug\UangPendaftaran.pdb

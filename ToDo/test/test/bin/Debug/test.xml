@@ -1,0 +1,164 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+test
+</name>
+</assembly>
+<members>
+<member name="T:test.penerbanganDataSet1.jadwalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:test.penerbanganDataSet1.jadwalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:test.penerbanganDataSet1.jadwalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:test.penerbanganDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:test.penerbanganDataSet1TableAdapters.jadwalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:test.penerbanganDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(test.penerbanganDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:test.penerbanganDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(test.penerbanganDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:test.penerbanganDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(test.penerbanganDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:test.penerbanganDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:test.penerbanganDataSet1TableAdapters.TableAdapterManager.UpdateAll(test.penerbanganDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:test.penerbanganDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:test.penerbanganDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:test.penerbanganDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:test.penerbanganDataSet.jadwalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:test.penerbanganDataSet.tarifDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:test.penerbanganDataSet.tujuanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:test.penerbanganDataSet.jadwalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:test.penerbanganDataSet.tarifRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:test.penerbanganDataSet.tujuanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:test.penerbanganDataSet.jadwalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:test.penerbanganDataSet.tarifRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:test.penerbanganDataSet.tujuanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:test.penerbanganDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:test.penerbanganDataSetTableAdapters.jadwalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:test.penerbanganDataSetTableAdapters.tarifTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:test.penerbanganDataSetTableAdapters.tujuanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:test.penerbanganDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(test.penerbanganDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:test.penerbanganDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(test.penerbanganDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:test.penerbanganDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(test.penerbanganDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:test.penerbanganDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:test.penerbanganDataSetTableAdapters.TableAdapterManager.UpdateAll(test.penerbanganDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:test.penerbanganDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:test.penerbanganDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:test.penerbanganDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:test.BukuDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:test.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:test.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:test.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

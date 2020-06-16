@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\bin\Debug\MenghitungPeluruhan.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\bin\Debug\MenghitungPeluruhan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\bin\Debug\MenghitungPeluruhan.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\obj\Debug\MenghitungPeluruhan.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\obj\Debug\MenghitungPeluruhan.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\obj\Debug\MenghitungPeluruhan.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\obj\Debug\MenghitungPeluruhan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungPeluruhan\obj\Debug\MenghitungPeluruhan.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungPeluruhan\MenghitungPeluruhan\bin\Debug\MenghitungPeluruhan.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungPeluruhan\MenghitungPeluruhan\obj\Debug\MenghitungPeluruhan.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungPeluruhan\MenghitungPeluruhan\obj\Debug\MenghitungPeluruhan.pdb

@@ -1,0 +1,10 @@
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\bin\Debug\MadeByBejjo.exe
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\bin\Debug\MadeByBejjo.pdb
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.Form1.resources
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.exe
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.pdb
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.SecretForm.resources
+D:\Bejjo\Tugas\Project\MadeByBejjo\MadeByBejjo\obj\x86\Debug\MadeByBejjo.result.resources

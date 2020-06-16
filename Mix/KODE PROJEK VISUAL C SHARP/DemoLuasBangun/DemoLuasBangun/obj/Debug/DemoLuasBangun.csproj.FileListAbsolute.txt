@@ -1,0 +1,9 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\bin\Debug\DemoLuasBangun.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\bin\Debug\DemoLuasBangun.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\bin\Debug\DemoLuasBangun.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\obj\Debug\DemoLuasBangun.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\obj\Debug\DemoLuasBangun.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\obj\Debug\DemoLuasBangun.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\obj\Debug\DemoLuasBangun.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\obj\Debug\DemoLuasBangun.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoLuasBangun\obj\Debug\DemoLuasBangun.pdb

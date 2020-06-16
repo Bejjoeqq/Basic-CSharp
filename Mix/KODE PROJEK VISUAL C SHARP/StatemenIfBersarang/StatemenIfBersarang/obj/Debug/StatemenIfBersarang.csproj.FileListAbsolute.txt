@@ -1,0 +1,9 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\bin\Debug\StatemenIfBersarang.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\obj\Debug\StatemenIfBersarang.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\obj\Debug\StatemenIfBersarang.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\obj\Debug\StatemenIfBersarang.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\obj\Debug\StatemenIfBersarang.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\bin\Debug\StatemenIfBersarang.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\bin\Debug\StatemenIfBersarang.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\obj\Debug\StatemenIfBersarang.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIfBersarang\obj\Debug\StatemenIfBersarang.pdb

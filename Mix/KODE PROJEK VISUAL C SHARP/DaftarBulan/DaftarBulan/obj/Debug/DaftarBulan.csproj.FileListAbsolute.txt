@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\bin\Debug\DaftarBulan.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\bin\Debug\DaftarBulan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\bin\Debug\DaftarBulan.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\obj\Debug\DaftarBulan.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\obj\Debug\DaftarBulan.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\obj\Debug\DaftarBulan.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\obj\Debug\DaftarBulan.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DaftarBulan\obj\Debug\DaftarBulan.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DaftarBulan\DaftarBulan\bin\Debug\DaftarBulan.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DaftarBulan\DaftarBulan\obj\Debug\DaftarBulan.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DaftarBulan\DaftarBulan\obj\Debug\DaftarBulan.pdb

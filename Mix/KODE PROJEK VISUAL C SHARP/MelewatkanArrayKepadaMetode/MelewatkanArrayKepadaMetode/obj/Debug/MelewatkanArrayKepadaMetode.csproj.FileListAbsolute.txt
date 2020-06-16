@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\bin\Debug\MelewatkanArrayKepadaMetode.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\bin\Debug\MelewatkanArrayKepadaMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\bin\Debug\MelewatkanArrayKepadaMetode.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArrayKepadaMetode\MelewatkanArrayKepadaMetode\bin\Debug\MelewatkanArrayKepadaMetode.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArrayKepadaMetode\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArrayKepadaMetode\MelewatkanArrayKepadaMetode\obj\Debug\MelewatkanArrayKepadaMetode.pdb

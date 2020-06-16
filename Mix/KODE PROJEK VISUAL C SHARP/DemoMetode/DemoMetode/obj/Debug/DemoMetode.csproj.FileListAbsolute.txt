@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\bin\Debug\DemoMetode.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\bin\Debug\DemoMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\bin\Debug\DemoMetode.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\obj\Debug\DemoMetode.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\obj\Debug\DemoMetode.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\obj\Debug\DemoMetode.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\obj\Debug\DemoMetode.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\obj\Debug\DemoMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoMetode\obj\Debug\DemoMetode.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoMetode\DemoMetode\bin\Debug\DemoMetode.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoMetode\DemoMetode\obj\Debug\DemoMetode.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoMetode\DemoMetode\obj\Debug\DemoMetode.pdb

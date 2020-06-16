@@ -1,0 +1,16 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\bin\Debug\KalkulatorKembalianLoopWhile.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\bin\Debug\KalkulatorKembalianLoopWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\bin\Debug\KalkulatorKembalianLoopWhile.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\bin\Debug\KalkulatorKembalianLoopWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\bin\Debug\KalkulatorKembalianLoopWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\bin\Debug\KalkulatorKembalianLoopWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorKembalianLoopWhile\KalkulatorKembalianLoopWhile\obj\Debug\KalkulatorKembalianLoopWhile.pdb

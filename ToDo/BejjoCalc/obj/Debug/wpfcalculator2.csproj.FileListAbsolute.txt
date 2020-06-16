@@ -1,0 +1,15 @@
+D:\Bejjo\Tugas\Project\Calc\bin\Debug\AvalonCalculator2.exe
+D:\Bejjo\Tugas\Project\Calc\bin\Debug\AvalonCalculator2.pdb
+D:\Bejjo\Tugas\Project\Calc\bin\Debug\en-US\AvalonCalculator2.resources.dll
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\Window1.baml
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\Window1.g.cs
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\app.g.cs
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\AvalonCalculator2_MarkupCompile.cache
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\AvalonCalculator2.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\wpfcalculator2.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\AvalonCalculator2.g.en-US.resources
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\en-US\AvalonCalculator2.resources.dll
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\AvalonCalculator2.exe
+D:\Bejjo\Tugas\Project\Calc\obj\Debug\AvalonCalculator2.pdb
+D:\Bejjo\Tugas\Project\BejjoCalc\obj\Debug\AvalonCalculator2.exe
+D:\Bejjo\Tugas\Project\BejjoCalc\obj\Debug\AvalonCalculator2.pdb

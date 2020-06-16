@@ -1,0 +1,25 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.exe.config
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\bin\Debug\MengimporFileTeksKeProgram.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.Form1.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\MengimporFileTeksKeProgram\MengimporFileTeksKeProgram\obj\Debug\MengimporFileTeksKeProgram.csproj.GenerateResource.Cache

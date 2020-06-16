@@ -1,0 +1,10 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhanaDenganCitra.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Resource1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhanaDenganCitra.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.pdb

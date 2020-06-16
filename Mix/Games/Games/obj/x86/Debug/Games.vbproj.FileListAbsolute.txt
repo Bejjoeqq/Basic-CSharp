@@ -1,0 +1,3 @@
+D:\Bejjo\Tugas\Project\Games\Games\obj\x86\Debug\Games.Form1.resources
+D:\Bejjo\Tugas\Project\Games\Games\obj\x86\Debug\Games.Resources.resources
+D:\Bejjo\Tugas\Project\Games\Games\obj\x86\Debug\Games.vbproj.GenerateResource.Cache

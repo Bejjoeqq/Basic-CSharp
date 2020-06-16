@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\highscores.xnb
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\options.xnb
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\PlayGame.xnb
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\GameMenuScreen.exe
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\GameMenuScreen.pdb
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\GameMenuScreen.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\GameMenuScreen.exe
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\GameMenuScreen.pdb
+C:\Users\User\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\main menu.xnb
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\highscores.xnb
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\options.xnb
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\PlayGame.xnb
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\Content\main menu.xnb
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\GameMenuScreen.exe
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\bin\x86\Debug\GameMenuScreen.pdb
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\GameMenuScreen.csprojResolveAssemblyReference.cache
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\GameMenuScreen.exe
+C:\Users\Jonny\Desktop\Jonnys XNA Games\GameMenuScreen\GameMenuScreen\GameMenuScreen\obj\x86\Debug\GameMenuScreen.pdb

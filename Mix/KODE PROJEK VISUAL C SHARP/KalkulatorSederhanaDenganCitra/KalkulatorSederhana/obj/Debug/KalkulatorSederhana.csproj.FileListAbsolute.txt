@@ -1,0 +1,14 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorSederhanaDenganCitra\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.pdb

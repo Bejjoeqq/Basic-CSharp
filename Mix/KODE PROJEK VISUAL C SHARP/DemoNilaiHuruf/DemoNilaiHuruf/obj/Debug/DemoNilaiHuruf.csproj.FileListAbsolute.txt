@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\bin\Debug\DemoNilaiHuruf.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\bin\Debug\DemoNilaiHuruf.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\bin\Debug\DemoNilaiHuruf.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\obj\Debug\DemoNilaiHuruf.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\obj\Debug\DemoNilaiHuruf.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\obj\Debug\DemoNilaiHuruf.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\obj\Debug\DemoNilaiHuruf.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoNilaiHuruf\obj\Debug\DemoNilaiHuruf.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoNilaiHuruf\DemoNilaiHuruf\bin\Debug\DemoNilaiHuruf.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoNilaiHuruf\DemoNilaiHuruf\obj\Debug\DemoNilaiHuruf.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoNilaiHuruf\DemoNilaiHuruf\obj\Debug\DemoNilaiHuruf.pdb

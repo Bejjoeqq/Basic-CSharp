@@ -1,0 +1,16 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\bin\Debug\MenggunakanSwitch.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\bin\Debug\MenggunakanSwitch.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\bin\Debug\MenggunakanSwitch.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\bin\Debug\MenggunakanSwitch.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\bin\Debug\MenggunakanSwitch.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\bin\Debug\MenggunakanSwitch.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenggunakanSwitch\MenggunakanSwitch\obj\Debug\MenggunakanSwitch.csproj.GenerateResource.Cache

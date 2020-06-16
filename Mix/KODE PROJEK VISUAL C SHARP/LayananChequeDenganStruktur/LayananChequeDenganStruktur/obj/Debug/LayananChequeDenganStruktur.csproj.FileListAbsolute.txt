@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\bin\Debug\LayananChequeDenganStruktur.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\bin\Debug\LayananChequeDenganStruktur.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\bin\Debug\LayananChequeDenganStruktur.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LayananChequeDenganStruktur\LayananChequeDenganStruktur\bin\Debug\LayananChequeDenganStruktur.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LayananChequeDenganStruktur\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LayananChequeDenganStruktur\LayananChequeDenganStruktur\obj\Debug\LayananChequeDenganStruktur.pdb

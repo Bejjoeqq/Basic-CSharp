@@ -1,0 +1,14 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\bin\Debug\DemoTawaran.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\bin\Debug\DemoTawaran.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\bin\Debug\DemoTawaran.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\obj\Debug\DemoTawaran.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\obj\Debug\DemoTawaran.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\obj\Debug\DemoTawaran.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\obj\Debug\DemoTawaran.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoTawaran\obj\Debug\DemoTawaran.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran\DemoTawaran\bin\Debug\DemoTawaran.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran\DemoTawaran\obj\Debug\DemoTawaran.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran\DemoTawaran\obj\Debug\DemoTawaran.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\bin\Debug\DemoTawaran.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\obj\Debug\DemoTawaran.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoTawaran2\DemoTawaran\obj\Debug\DemoTawaran.pdb

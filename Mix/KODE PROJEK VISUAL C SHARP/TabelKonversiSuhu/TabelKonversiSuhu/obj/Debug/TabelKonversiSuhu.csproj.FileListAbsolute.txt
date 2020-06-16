@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\bin\Debug\TabelKonversiSuhu.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\obj\Debug\TabelKonversiSuhu.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\obj\Debug\TabelKonversiSuhu.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\obj\Debug\TabelKonversiSuhu.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\bin\Debug\TabelKonversiSuhu.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\bin\Debug\TabelKonversiSuhu.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\obj\Debug\TabelKonversiSuhu.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\TabelKonversiSuhu\obj\Debug\TabelKonversiSuhu.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TabelKonversiSuhu\TabelKonversiSuhu\bin\Debug\TabelKonversiSuhu.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TabelKonversiSuhu\TabelKonversiSuhu\obj\Debug\TabelKonversiSuhu.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TabelKonversiSuhu\TabelKonversiSuhu\obj\Debug\TabelKonversiSuhu.pdb

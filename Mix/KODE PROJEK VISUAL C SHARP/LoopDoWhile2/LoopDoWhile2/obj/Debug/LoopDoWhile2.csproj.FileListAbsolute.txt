@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\bin\Debug\LoopDoWhile2.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\bin\Debug\LoopDoWhile2.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\bin\Debug\LoopDoWhile2.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\obj\Debug\LoopDoWhile2.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\obj\Debug\LoopDoWhile2.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\obj\Debug\LoopDoWhile2.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\obj\Debug\LoopDoWhile2.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopDoWhile2\obj\Debug\LoopDoWhile2.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LoopDoWhile2\LoopDoWhile2\bin\Debug\LoopDoWhile2.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LoopDoWhile2\LoopDoWhile2\obj\Debug\LoopDoWhile2.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LoopDoWhile2\LoopDoWhile2\obj\Debug\LoopDoWhile2.pdb

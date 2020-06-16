@@ -1,0 +1,23 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\bin\Debug\MembacaDataDariFile.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\bin\Debug\MembacaDataDariFile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\bin\Debug\MembacaDataDariFile.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.Resource1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\bin\Debug\MembacaDataDariFile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\bin\Debug\MembacaDataDariFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\bin\Debug\MembacaDataDariFile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.Resource1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MembacaDataDariFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MendeteksiEndOfFile\MembacaDataDariFile\bin\Debug\MembacaDataDariFile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MendeteksiEndOfFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MendeteksiEndOfFile\MembacaDataDariFile\obj\Debug\MembacaDataDariFile.pdb

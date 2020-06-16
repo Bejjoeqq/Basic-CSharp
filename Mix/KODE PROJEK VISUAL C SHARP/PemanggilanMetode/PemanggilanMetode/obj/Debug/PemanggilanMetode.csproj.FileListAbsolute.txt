@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\bin\Debug\PemanggilanMetode.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\bin\Debug\PemanggilanMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\bin\Debug\PemanggilanMetode.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\obj\Debug\PemanggilanMetode.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\obj\Debug\PemanggilanMetode.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\obj\Debug\PemanggilanMetode.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\obj\Debug\PemanggilanMetode.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\obj\Debug\PemanggilanMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PemanggilanMetode\obj\Debug\PemanggilanMetode.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PemanggilanMetode\PemanggilanMetode\bin\Debug\PemanggilanMetode.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PemanggilanMetode\PemanggilanMetode\obj\Debug\PemanggilanMetode.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PemanggilanMetode\PemanggilanMetode\obj\Debug\PemanggilanMetode.pdb

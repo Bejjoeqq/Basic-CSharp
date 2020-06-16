@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\bin\Debug\MenghitungSisaHutang.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\bin\Debug\MenghitungSisaHutang.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\bin\Debug\MenghitungSisaHutang.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\obj\Debug\MenghitungSisaHutang.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\obj\Debug\MenghitungSisaHutang.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\obj\Debug\MenghitungSisaHutang.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\obj\Debug\MenghitungSisaHutang.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MenghitungSisaHutang\obj\Debug\MenghitungSisaHutang.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungSisaHutang\MenghitungSisaHutang\bin\Debug\MenghitungSisaHutang.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungSisaHutang\MenghitungSisaHutang\obj\Debug\MenghitungSisaHutang.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MenghitungSisaHutang\MenghitungSisaHutang\obj\Debug\MenghitungSisaHutang.pdb

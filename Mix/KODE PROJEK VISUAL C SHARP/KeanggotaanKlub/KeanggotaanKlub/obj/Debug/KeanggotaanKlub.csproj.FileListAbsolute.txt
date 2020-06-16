@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\bin\Debug\KeanggotaanKlub.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\bin\Debug\KeanggotaanKlub.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\bin\Debug\KeanggotaanKlub.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\obj\Debug\KeanggotaanKlub.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\obj\Debug\KeanggotaanKlub.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\obj\Debug\KeanggotaanKlub.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\obj\Debug\KeanggotaanKlub.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KeanggotaanKlub\obj\Debug\KeanggotaanKlub.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KeanggotaanKlub\KeanggotaanKlub\bin\Debug\KeanggotaanKlub.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KeanggotaanKlub\KeanggotaanKlub\obj\Debug\KeanggotaanKlub.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KeanggotaanKlub\KeanggotaanKlub\obj\Debug\KeanggotaanKlub.pdb

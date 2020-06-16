@@ -1,0 +1,21 @@
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+c:\users\ehtesham mehmood\documents\visual studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+D:\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+D:\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\obj\Debug\MyCalculator.exe
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\obj\Debug\MyCalculator.pdb
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\bin\Debug\MyCalculator.exe
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\CalcS+\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache

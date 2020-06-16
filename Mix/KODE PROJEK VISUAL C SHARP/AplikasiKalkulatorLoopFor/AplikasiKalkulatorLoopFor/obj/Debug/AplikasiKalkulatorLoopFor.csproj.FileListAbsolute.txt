@@ -1,0 +1,10 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiKalkulatorLoopFor\bin\Debug\AplikasiKalkulatorLoopFor.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\bin\Debug\AplikasiKalkulatorLoopFor.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\bin\Debug\AplikasiKalkulatorLoopFor.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\bin\Debug\AplikasiKalkulatorLoopFor.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\obj\Debug\AplikasiKalkulatorLoopFor.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\obj\Debug\AplikasiKalkulatorLoopFor.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\obj\Debug\AplikasiKalkulatorLoopFor.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\obj\Debug\AplikasiKalkulatorLoopFor.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\obj\Debug\AplikasiKalkulatorLoopFor.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiKalkulatorLoopFor\AplikasiKalkulatorLoopFor\obj\Debug\AplikasiKalkulatorLoopFor.pdb

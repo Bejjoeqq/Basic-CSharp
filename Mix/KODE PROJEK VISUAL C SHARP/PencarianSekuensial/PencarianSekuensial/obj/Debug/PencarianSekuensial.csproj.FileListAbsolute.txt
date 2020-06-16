@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\bin\Debug\PencarianSekuensial.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\bin\Debug\PencarianSekuensial.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\bin\Debug\PencarianSekuensial.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\obj\Debug\PencarianSekuensial.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\obj\Debug\PencarianSekuensial.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\obj\Debug\PencarianSekuensial.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\obj\Debug\PencarianSekuensial.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\obj\Debug\PencarianSekuensial.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PencarianSekuensial\obj\Debug\PencarianSekuensial.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianSekuensial\PencarianSekuensial\bin\Debug\PencarianSekuensial.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianSekuensial\PencarianSekuensial\obj\Debug\PencarianSekuensial.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PencarianSekuensial\PencarianSekuensial\obj\Debug\PencarianSekuensial.pdb

@@ -1,0 +1,9 @@
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\obj\x86\Debug\Aldhiya9Ab.Form1.resources
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\obj\x86\Debug\Aldhiya9Ab.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\obj\x86\Debug\Aldhiya9Ab.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\bin\Debug\Aldhiya9Ab.exe
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\bin\Debug\Aldhiya9Ab.pdb
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\obj\x86\Debug\Aldhiya9Ab.exe
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\obj\x86\Debug\Aldhiya9Ab.pdb
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\obj\x86\Debug\Interop.WMPLib.dll
+D:\Bejjo\Tugas\Project\Aldhiya9Ab\Aldhiya9Ab\obj\x86\Debug\Aldhiya9Ab.csproj.ResolveComReference.cache

@@ -1,0 +1,17 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\bin\Debug\SistemPenggajianSederhana.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\bin\Debug\SistemPenggajianSederhana.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\bin\Debug\SistemPenggajianSederhana.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\bin\Debug\SistemPenggajianSederhana.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\bin\Debug\SistemPenggajianSederhana.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\bin\Debug\SistemPenggajianSederhana.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\SistemPenggajianSederhana\SistemPenggajianSederhana\obj\Debug\SistemPenggajianSederhana.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\bin\Debug\StatemenIf1.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\obj\Debug\StatemenIf1.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\obj\Debug\StatemenIf1.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\obj\Debug\StatemenIf1.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\obj\Debug\StatemenIf1.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\bin\Debug\StatemenIf1.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\bin\Debug\StatemenIf1.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\obj\Debug\StatemenIf1.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\StatemenIf1\obj\Debug\StatemenIf1.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\bin\Debug\StatemenIf1.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\obj\Debug\StatemenIf1.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\obj\Debug\StatemenIf1.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\bin\Debug\StatemenIf1.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\bin\Debug\StatemenIf1.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\obj\Debug\StatemenIf1.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\obj\Debug\StatemenIf1.Form1.resources
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\obj\Debug\StatemenIf1.Properties.Resources.resources
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\StatemenIf1\StatemenIf1\obj\Debug\StatemenIf1.csproj.GenerateResource.Cache

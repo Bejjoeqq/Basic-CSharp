@@ -1,0 +1,12 @@
+D:\Bejjo\Tugas\Project\tesspkl\bin\Debug\tesspkl.exe
+D:\Bejjo\Tugas\Project\tesspkl\bin\Debug\tesspkl.pdb
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.Form1.resources
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.exe
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.pdb
+D:\Bejjo\Tugas\Project\tesspkl\bin\Debug\tesspkl.exe.manifest
+D:\Bejjo\Tugas\Project\tesspkl\bin\Debug\tesspkl.application
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.exe.manifest
+D:\Bejjo\Tugas\Project\tesspkl\obj\x86\Debug\tesspkl.application

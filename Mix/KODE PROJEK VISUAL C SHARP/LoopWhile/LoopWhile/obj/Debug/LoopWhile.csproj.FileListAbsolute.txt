@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\bin\Debug\LoopWhile.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\bin\Debug\LoopWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\bin\Debug\LoopWhile.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LoopWhile\LoopWhile\bin\Debug\LoopWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LoopWhile\LoopWhile\obj\Debug\LoopWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LoopWhile\LoopWhile\obj\Debug\LoopWhile.pdb

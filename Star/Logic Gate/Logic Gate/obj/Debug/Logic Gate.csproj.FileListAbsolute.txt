@@ -1,0 +1,9 @@
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\bin\Debug\Logic Gate.exe.config
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\bin\Debug\Logic Gate.exe
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\bin\Debug\Logic Gate.pdb
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\obj\Debug\Logic Gate.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\obj\Debug\Logic_Gate.Form1.resources
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\obj\Debug\Logic_Gate.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\obj\Debug\Logic Gate.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\obj\Debug\Logic Gate.exe
+D:\Bejjo\Tugas\Project\Logic Gate\Logic Gate\obj\Debug\Logic Gate.pdb

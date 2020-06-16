@@ -1,0 +1,11 @@
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.Admin.resources
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.Cashier.resources
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.Chef.resources
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.Form1.resources
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.Manage_Employee.resources
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\NusantaraProject\bin\Debug\NusantaraProject.exe
+D:\Bejjo\Tugas\Project\NusantaraProject\bin\Debug\NusantaraProject.pdb
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.exe
+D:\Bejjo\Tugas\Project\NusantaraProject\obj\x86\Debug\NusantaraProject.pdb

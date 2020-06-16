@@ -1,0 +1,5 @@
+D:\Bejjo\Tugas\Project\Snooker\CSharpSnookerCore\bin\Debug\CSharpSnookerCore.dll
+D:\Bejjo\Tugas\Project\Snooker\CSharpSnookerCore\bin\Debug\CSharpSnookerCore.pdb
+D:\Bejjo\Tugas\Project\Snooker\CSharpSnookerCore\obj\Debug\CSharpSnookerCore.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\Snooker\CSharpSnookerCore\obj\Debug\CSharpSnookerCore.dll
+D:\Bejjo\Tugas\Project\Snooker\CSharpSnookerCore\obj\Debug\CSharpSnookerCore.pdb

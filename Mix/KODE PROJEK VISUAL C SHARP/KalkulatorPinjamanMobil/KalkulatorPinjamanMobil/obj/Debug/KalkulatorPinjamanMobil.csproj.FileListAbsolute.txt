@@ -1,0 +1,14 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorPinjamanMobil\bin\Debug\KalkulatorPinjamanMobil.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\bin\Debug\KalkulatorPinjamanMobil.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\bin\Debug\KalkulatorPinjamanMobil.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\bin\Debug\KalkulatorPinjamanMobil.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorPinjamanMobil\KalkulatorPinjamanMobil\obj\Debug\KalkulatorPinjamanMobil.pdb

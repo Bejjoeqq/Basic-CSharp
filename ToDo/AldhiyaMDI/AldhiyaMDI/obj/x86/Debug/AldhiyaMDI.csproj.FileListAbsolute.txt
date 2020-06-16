@@ -1,0 +1,9 @@
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\obj\x86\Debug\AldhiyaMDI.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\obj\x86\Debug\AldhiyaMDI.MDI1.resources
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\obj\x86\Debug\AldhiyaMDI.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\obj\x86\Debug\AldhiyaMDI.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\bin\Debug\AldhiyaMDI.exe
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\bin\Debug\AldhiyaMDI.pdb
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\obj\x86\Debug\AldhiyaMDI.exe
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\obj\x86\Debug\AldhiyaMDI.pdb
+D:\Bejjo\Tugas\Project\AldhiyaMDI\AldhiyaMDI\obj\x86\Debug\AldhiyaMDI.csprojResolveAssemblyReference.cache

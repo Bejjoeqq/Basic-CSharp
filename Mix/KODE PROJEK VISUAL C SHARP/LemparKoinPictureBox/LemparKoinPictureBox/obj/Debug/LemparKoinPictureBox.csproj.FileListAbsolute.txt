@@ -1,0 +1,13 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\bin\Debug\LemparKoinPictureBox.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\bin\Debug\LemparKoinPictureBox.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\bin\Debug\LemparKoinPictureBox.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.Resource1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparKoinPictureBox\LemparKoinPictureBox\bin\Debug\LemparKoinPictureBox.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparKoinPictureBox\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparKoinPictureBox\LemparKoinPictureBox\obj\Debug\LemparKoinPictureBox.pdb

@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\bin\Debug\KalkulatorMenuKafe.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\bin\Debug\KalkulatorMenuKafe.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\bin\Debug\KalkulatorMenuKafe.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorMenuKafe\KalkulatorMenuKafe\bin\Debug\KalkulatorMenuKafe.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorMenuKafe\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\KalkulatorMenuKafe\KalkulatorMenuKafe\obj\Debug\KalkulatorMenuKafe.pdb

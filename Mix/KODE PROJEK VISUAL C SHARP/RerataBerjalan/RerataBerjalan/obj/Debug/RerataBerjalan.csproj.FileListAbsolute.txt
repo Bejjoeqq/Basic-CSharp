@@ -1,0 +1,12 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataBerjalan\bin\Debug\RerataBerjalan.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataBerjalan\obj\Debug\RerataBerjalan.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataBerjalan\obj\Debug\RerataBerjalan.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\RerataBerjalan\obj\Debug\RerataBerjalan.csproj.GenerateResource.Cache
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\bin\Debug\RerataBerjalan.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\bin\Debug\RerataBerjalan.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\bin\Debug\RerataBerjalan.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\obj\Debug\RerataBerjalan.Form1.resources
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\obj\Debug\RerataBerjalan.Properties.Resources.resources
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\obj\Debug\RerataBerjalan.csproj.GenerateResource.Cache
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\obj\Debug\RerataBerjalan.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RerataBerjalan\RerataBerjalan\obj\Debug\RerataBerjalan.pdb

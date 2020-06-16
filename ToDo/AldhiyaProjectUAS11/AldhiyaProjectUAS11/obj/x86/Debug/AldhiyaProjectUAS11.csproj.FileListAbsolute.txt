@@ -1,0 +1,10 @@
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\bin\Debug\AldhiyaProjectUAS11.exe
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\bin\Debug\AldhiyaProjectUAS11.pdb
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.DataDosen.resources
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.DataMahasiswa.resources
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.DataPegawai.resources
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.exe
+D:\Bejjo\Tugas\Project\AldhiyaProjectUAS11\AldhiyaProjectUAS11\obj\x86\Debug\AldhiyaProjectUAS11.pdb

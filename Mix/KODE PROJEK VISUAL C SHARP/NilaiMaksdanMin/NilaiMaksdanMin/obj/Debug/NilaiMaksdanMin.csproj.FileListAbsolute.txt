@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\bin\Debug\NilaiMaksdanMin.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\bin\Debug\NilaiMaksdanMin.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\bin\Debug\NilaiMaksdanMin.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\obj\Debug\NilaiMaksdanMin.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\obj\Debug\NilaiMaksdanMin.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\obj\Debug\NilaiMaksdanMin.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\obj\Debug\NilaiMaksdanMin.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\NilaiMaksdanMin\obj\Debug\NilaiMaksdanMin.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\NilaiMaksdanMin\NilaiMaksdanMin\bin\Debug\NilaiMaksdanMin.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\NilaiMaksdanMin\NilaiMaksdanMin\obj\Debug\NilaiMaksdanMin.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\NilaiMaksdanMin\NilaiMaksdanMin\obj\Debug\NilaiMaksdanMin.pdb

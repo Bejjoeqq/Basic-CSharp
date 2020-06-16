@@ -1,0 +1,10 @@
+D:\Bejjo\Tugas\Project\coba\bin\Debug\coba.exe
+D:\Bejjo\Tugas\Project\coba\bin\Debug\coba.pdb
+D:\Bejjo\Tugas\Project\coba\obj\x86\Debug\coba.Form1.resources
+D:\Bejjo\Tugas\Project\coba\obj\x86\Debug\coba.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\coba\obj\x86\Debug\coba.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\coba\obj\x86\Debug\coba.exe
+D:\Bejjo\Tugas\Project\coba\obj\x86\Debug\coba.pdb
+D:\Bejjo\Tugas\Project\coba\obj\x86\Debug\coba.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\C#\Basic\coba\obj\x86\Debug\coba.exe
+D:\Bejjo\Tugas\Project\C#\Basic\coba\obj\x86\Debug\coba.pdb

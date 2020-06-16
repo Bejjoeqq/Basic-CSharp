@@ -1,0 +1,9 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\bin\Debug\PenjelajahanPencarianBiner.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\bin\Debug\PenjelajahanPencarianBiner.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\bin\Debug\PenjelajahanPencarianBiner.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\obj\Debug\PenjelajahanPencarianBiner.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\obj\Debug\PenjelajahanPencarianBiner.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\obj\Debug\PenjelajahanPencarianBiner.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\obj\Debug\PenjelajahanPencarianBiner.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\obj\Debug\PenjelajahanPencarianBiner.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PenjelajahanPencarianBiner\obj\Debug\PenjelajahanPencarianBiner.pdb

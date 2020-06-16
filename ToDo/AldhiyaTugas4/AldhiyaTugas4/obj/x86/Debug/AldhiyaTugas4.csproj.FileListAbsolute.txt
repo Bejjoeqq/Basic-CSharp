@@ -1,0 +1,8 @@
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\obj\x86\Debug\AldhiyaTugas4.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\obj\x86\Debug\AldhiyaTugas4.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\obj\x86\Debug\AldhiyaTugas4.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\bin\Debug\AldhiyaTugas4.exe
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\bin\Debug\AldhiyaTugas4.pdb
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\obj\x86\Debug\AldhiyaTugas4.exe
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\obj\x86\Debug\AldhiyaTugas4.pdb
+D:\Bejjo\Tugas\Project\AldhiyaTugas4\AldhiyaTugas4\obj\x86\Debug\AldhiyaTugas4.csprojResolveAssemblyReference.cache

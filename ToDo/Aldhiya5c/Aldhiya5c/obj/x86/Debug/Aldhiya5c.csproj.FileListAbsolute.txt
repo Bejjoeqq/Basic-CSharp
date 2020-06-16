@@ -1,0 +1,8 @@
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\bin\Debug\Aldhiya5c.exe
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\bin\Debug\Aldhiya5c.pdb
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\obj\x86\Debug\Aldhiya5c.Form1.resources
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\obj\x86\Debug\Aldhiya5c.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\obj\x86\Debug\Aldhiya5c.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\obj\x86\Debug\Aldhiya5c.exe
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\obj\x86\Debug\Aldhiya5c.pdb
+D:\Bejjo\Tugas\Project\Aldhiya5c\Aldhiya5c\obj\x86\Debug\Aldhiya5c.csprojResolveAssemblyReference.cache

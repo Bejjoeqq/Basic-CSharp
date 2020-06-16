@@ -1,0 +1,18 @@
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Frm_Calc.resources
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+c:\users\kris\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\obj\Debug\Simple Calculator.pdb
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\obj\Debug\Simple_Calculator.Frm_Calc.resources
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\Calc3\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache

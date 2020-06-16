@@ -1,0 +1,15 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenKepadaMetode\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\bin\Debug\MelewatkanArgumenKepadaMetode.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\MelewatkanArgumenJamakKepadaMetode\MelewatkanArgumenKepadaMetode\obj\Debug\MelewatkanArgumenKepadaMetode.pdb

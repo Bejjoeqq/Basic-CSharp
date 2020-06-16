@@ -1,0 +1,8 @@
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\bin\Debug\TahunLeapLoopDoWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile2.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\TahunLeapLoopDoWhile2\TahunLeapLoopDoWhile\obj\Debug\TahunLeapLoopDoWhile.pdb

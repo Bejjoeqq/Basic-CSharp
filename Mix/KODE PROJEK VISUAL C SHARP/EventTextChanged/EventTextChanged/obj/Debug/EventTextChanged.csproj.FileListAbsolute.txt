@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\bin\Debug\EventTextChanged.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\bin\Debug\EventTextChanged.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\bin\Debug\EventTextChanged.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\obj\Debug\EventTextChanged.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\obj\Debug\EventTextChanged.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\obj\Debug\EventTextChanged.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\obj\Debug\EventTextChanged.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\EventTextChanged\obj\Debug\EventTextChanged.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\EventTextChanged\EventTextChanged\bin\Debug\EventTextChanged.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\EventTextChanged\EventTextChanged\obj\Debug\EventTextChanged.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\EventTextChanged\EventTextChanged\obj\Debug\EventTextChanged.pdb

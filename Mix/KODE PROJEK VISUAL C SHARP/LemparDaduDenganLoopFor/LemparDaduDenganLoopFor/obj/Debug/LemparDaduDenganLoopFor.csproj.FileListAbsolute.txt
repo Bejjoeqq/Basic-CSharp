@@ -1,0 +1,16 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\bin\Debug\LemparDaduDenganLoopFor.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\bin\Debug\LemparDaduDenganLoopFor.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\bin\Debug\LemparDaduDenganLoopFor.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\bin\Debug\LemparDaduDenganLoopFor.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\bin\Debug\LemparDaduDenganLoopFor.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\bin\Debug\LemparDaduDenganLoopFor.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LemparDaduDenganLoopFor\LemparDaduDenganLoopFor\obj\Debug\LemparDaduDenganLoopFor.pdb

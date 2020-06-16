@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\bin\Debug\DemoRerata.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\bin\Debug\DemoRerata.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\bin\Debug\DemoRerata.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\obj\Debug\DemoRerata.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\obj\Debug\DemoRerata.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\obj\Debug\DemoRerata.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\obj\Debug\DemoRerata.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoRerata\obj\Debug\DemoRerata.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoRerata\DemoRerata\bin\Debug\DemoRerata.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoRerata\DemoRerata\obj\Debug\DemoRerata.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoRerata\DemoRerata\obj\Debug\DemoRerata.pdb

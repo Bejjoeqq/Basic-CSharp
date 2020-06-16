@@ -1,0 +1,17 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\AplikasiPenjualanDoWhile\bin\Debug\AplikasiPenjualanDoWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\bin\Debug\AplikasiPenjualanDoWhile.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\bin\Debug\AplikasiPenjualanDoWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\bin\Debug\AplikasiPenjualanDoWhile.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.csproj.GenerateResource.Cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\bin\Debug\AplikasiPenjualanDoWhile.exe.config
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\bin\Debug\AplikasiPenjualanDoWhile.exe
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\bin\Debug\AplikasiPenjualanDoWhile.pdb
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.Form1.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\KODE PROJEK VISUAL C SHARP\AplikasiPenjualanDoWhile\AplikasiPenjualanDoWhile\obj\Debug\AplikasiPenjualanDoWhile.csproj.GenerateResource.Cache

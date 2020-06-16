@@ -1,0 +1,7 @@
+D:\Bejjo\Tugas\Project\AldhiyaTugas2\AldhiyaTugas2\bin\Debug\AldhiyaTugas2.exe
+D:\Bejjo\Tugas\Project\AldhiyaTugas2\AldhiyaTugas2\bin\Debug\AldhiyaTugas2.pdb
+D:\Bejjo\Tugas\Project\AldhiyaTugas2\AldhiyaTugas2\obj\x86\Debug\AldhiyaTugas2.Form1.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugas2\AldhiyaTugas2\obj\x86\Debug\AldhiyaTugas2.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\AldhiyaTugas2\AldhiyaTugas2\obj\x86\Debug\AldhiyaTugas2.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\AldhiyaTugas2\AldhiyaTugas2\obj\x86\Debug\AldhiyaTugas2.exe
+D:\Bejjo\Tugas\Project\AldhiyaTugas2\AldhiyaTugas2\obj\x86\Debug\AldhiyaTugas2.pdb

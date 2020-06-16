@@ -1,0 +1,7 @@
+D:\Bejjo\Tugas\Project\Aldhiya-2b\Aldhiya-2b\bin\Debug\Aldhiya-2b.exe
+D:\Bejjo\Tugas\Project\Aldhiya-2b\Aldhiya-2b\bin\Debug\Aldhiya-2b.pdb
+D:\Bejjo\Tugas\Project\Aldhiya-2b\Aldhiya-2b\obj\x86\Debug\Aldhiya_2b.frmLatihan.resources
+D:\Bejjo\Tugas\Project\Aldhiya-2b\Aldhiya-2b\obj\x86\Debug\Aldhiya_2b.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\Aldhiya-2b\Aldhiya-2b\obj\x86\Debug\Aldhiya-2b.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\Aldhiya-2b\Aldhiya-2b\obj\x86\Debug\Aldhiya-2b.exe
+D:\Bejjo\Tugas\Project\Aldhiya-2b\Aldhiya-2b\obj\x86\Debug\Aldhiya-2b.pdb

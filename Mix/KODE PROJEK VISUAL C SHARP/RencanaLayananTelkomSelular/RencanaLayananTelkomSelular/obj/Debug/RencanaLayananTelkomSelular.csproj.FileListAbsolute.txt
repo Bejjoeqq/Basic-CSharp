@@ -1,0 +1,20 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\bin\Debug\RencanaLayananTelkomSelular.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\bin\Debug\RencanaLayananTelkomSelular.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\bin\Debug\RencanaLayananTelkomSelular.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.Resource1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\bin\Debug\RencanaLayananTelkomSelular.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\bin\Debug\RencanaLayananTelkomSelular.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\bin\Debug\RencanaLayananTelkomSelular.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.Resource1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\RencanaLayananTelkomSelular\RencanaLayananTelkomSelular\obj\Debug\RencanaLayananTelkomSelular.csproj.GenerateResource.Cache

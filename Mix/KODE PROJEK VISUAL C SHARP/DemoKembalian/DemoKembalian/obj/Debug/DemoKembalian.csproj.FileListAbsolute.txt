@@ -1,0 +1,16 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\bin\Debug\DemoKembalian.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\bin\Debug\DemoKembalian.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\bin\Debug\DemoKembalian.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\obj\Debug\DemoKembalian.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\obj\Debug\DemoKembalian.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\obj\Debug\DemoKembalian.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\obj\Debug\DemoKembalian.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\DemoKembalian\obj\Debug\DemoKembalian.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\bin\Debug\DemoKembalian.exe.config
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\obj\Debug\DemoKembalian.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\obj\Debug\DemoKembalian.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\bin\Debug\DemoKembalian.exe
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\bin\Debug\DemoKembalian.pdb
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\obj\Debug\DemoKembalian.Form1.resources
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\obj\Debug\DemoKembalian.Properties.Resources.resources
+E:\1______________BUKU 50 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\DemoKembalian\DemoKembalian\obj\Debug\DemoKembalian.csproj.GenerateResource.Cache

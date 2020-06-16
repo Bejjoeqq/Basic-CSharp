@@ -1,0 +1,11 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\bin\Debug\PelewatanDenganNilai.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\bin\Debug\PelewatanDenganNilai.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\bin\Debug\PelewatanDenganNilai.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganNilai\PelewatanDenganNilai\bin\Debug\PelewatanDenganNilai.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganNilai\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\PelewatanDenganNilai\PelewatanDenganNilai\obj\Debug\PelewatanDenganNilai.pdb

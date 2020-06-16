@@ -1,0 +1,20 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\bin\Debug\LampuONOFF.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\obj\Debug\LampuONOFF.csprojResolveAssemblyReference.cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\obj\Debug\LampuONOFF.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\obj\Debug\LampuONOFF.Properties.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\obj\Debug\LampuONOFF.Resource1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\obj\Debug\LampuONOFF.csproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\bin\Debug\LampuONOFF.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\bin\Debug\LampuONOFF.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\obj\Debug\LampuONOFF.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\LampuONOFF\obj\Debug\LampuONOFF.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\bin\Debug\LampuONOFF.exe.config
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\obj\Debug\LampuONOFF.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\obj\Debug\LampuONOFF.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\bin\Debug\LampuONOFF.exe
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\bin\Debug\LampuONOFF.pdb
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\obj\Debug\LampuONOFF.csprojResolveAssemblyReference.cache
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\obj\Debug\LampuONOFF.Form1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\obj\Debug\LampuONOFF.Properties.Resources.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\obj\Debug\LampuONOFF.Resource1.resources
+E:\1______________BUKU 47 SOAL PENYELESAIAN VISUAL C SHARP\KODE PROJEK VISUAL C SHARP\LampuONOFF\LampuONOFF\obj\Debug\LampuONOFF.csproj.GenerateResource.Cache
